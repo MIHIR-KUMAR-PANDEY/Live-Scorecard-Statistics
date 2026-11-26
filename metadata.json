@@ -1,0 +1,8 @@
+{
+  "name": "Median X – Live Score Statistics",
+  "description": "Live median scoreboard for an inter-college competition using a two-heap streaming algorithm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
